@@ -1,4 +1,5 @@
-Hi there 👋
+### 👋 Hi, I'm John Paolo Desuasido!
+I am a 3rd year college student taking the program of Mathematics with Specialization in Computer Science at Bulacan State University.
 
 <!--
 **jpdesuasido/jpdesuasido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
