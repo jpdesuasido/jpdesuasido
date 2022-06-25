@@ -1,5 +1,9 @@
 ### 👋 Hi, I'm John Paolo Desuasido!
-I am a 3rd year college student taking the program of Mathematics with Specialization in Computer Science at Bulacan State University.
+I am a 3rd year college student taking the program of Mathematics with Specialization in Computer Science at Bulacan State University. Most of the files found in my repositories are my works and corresponding contributions for my group in fulfillment of the requirements for our subjects.
+
+🔭 I’m currently working on building my confidence in coding and software programming, as I am more exposed towards the theoretical aspects of mathematical logic.
+🌱 I’m currently learning and refining my skills on various programming languages.
+😄 Pronouns: He/Him
 
 <!--
 **jpdesuasido/jpdesuasido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
