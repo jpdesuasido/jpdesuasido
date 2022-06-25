@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm John Paolo Desuasido!
-I am a 3rd year college student taking the program of Mathematics with Specialization in Computer Science at Bulacan State University. Most of the files found in my repositories are my works and corresponding contributions for my group in fulfillment of the requirements for our subjects.
+I am a 3rd year college student taking the program of Mathematics with Specialization in Computer Science at Bulacan State University. Most of the files found in my repositories are my works and corresponding contributions for my group in fulfillment of the requirements for our courses.
 
 - 🔭 I’m currently working on building my confidence in coding and software programming, for I am more exposed in the theoretical aspect of mathematical logic.
 - 🌱 I’m currently learning and refining my skills on various programming languages, as well as sharpening my problem-solving skills.
