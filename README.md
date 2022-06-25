@@ -4,7 +4,7 @@ I am a 3rd year college student taking the program of Mathematics with Specializ
 - 🔭 I’m currently working on building my confidence in coding and software programming, as I am more exposed towards the theoretical aspects of mathematical logic.
 - 🌱 I’m currently learning and refining my skills on various programming languages, as well as sharpening my problem-solving skills.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My hobbies are playing games, watching computer and tech-related videos, and playing piano! :musical_keyboard:	
+- ⚡ Fun fact: My hobbies are playing games, watching computer and mobile tech-related videos, and playing piano! :musical_keyboard:	
 
 <!--
 **jpdesuasido/jpdesuasido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
